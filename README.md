@@ -1,2 +1,2 @@
 # Website_Hacking_Tool
-A simply website hacking tool
+A simply website hacking tool developed using brute force and dict attack method. This program assumes the website catches the exception and sends no useful message to the client even when the real password matched. We know that catching an exception takes the computer a long time, so there should be a delay in the server response when this exception takes place. So we: count the time period in which the response comes and find out which starting symbols work out for the password.
