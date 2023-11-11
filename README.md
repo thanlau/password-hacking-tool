@@ -19,8 +19,8 @@ python hacking_hack.py 127.0.0.1 9090
 ```
 
 ## Files
-passwords.txt: Contains a list of potential passwords.
-logins.txt: Contains a list of potential usernames.
+- *passwords.txt*: Contains a list of potential passwords.
+- *logins.txt*: Contains a list of potential usernames.
 
 ## Warning
 This tool is provided for educational purposes only. Unauthorized hacking is illegal and unethical. Use this tool only in legal and ethical contexts, such as penetration testing with permission.
