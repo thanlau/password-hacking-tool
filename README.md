@@ -15,7 +15,7 @@ To use this tool, you need Python installed on your system. No additional librar
 Run the script from the command line by providing the target hostname and port. For example:
 
 ```bash
-python [script_name].py 127.0.0.1 9090
+python hacking_hack.py 127.0.0.1 9090
 ```
 
 ## Files
